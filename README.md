@@ -16,35 +16,19 @@
 ## 🛠️ Tech Stack & Skills
 
 ### Programming Languages
-🐍 Python
-🌐 HTML5
-🎨 CSS3
-⚡ JavaScript
+• Python • HTML5 • CSS3 • JavaScript
 
 ### AI & Machine Learning
-🤖 Machine Learning
-📊 Data Analysis
-🧠 Scikit-Learn
-🐼 Pandas
-🔢 NumPy
+Machine Learning • Data Analysis • Scikit-Learn • Pandas • NumPy
 
 ### Web Development
-🌐 HTML
-🎨 CSS
-⚡ JavaScript
-📱 Responsive Design
+• HTML • CSS • JavaScript • Responsive Design
 
 ### Tools & Platforms
-🔧 Git
-🐙 GitHub
-💻 VS Code
+• Git • GitHub • VS Code
 
 ### Soft Skills
-✨ Problem Solving
-🤝 Teamwork
-🗣️ Communication
-📚 Quick Learner
-🚀 Adaptability
+• Problem Solving • Teamwork • Communication • Quick Learner • Adaptability
 
 ## 🚀 Featured Projects
 
