@@ -1,3 +1,4 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=28&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Hi+I'm+Prerna;AI+%26+ML+Enthusiast;Python+Developer;Building+Real-World+Projects)](https://git.io/typing-svg)
 # Hey 👋 I'm Prerna
 
 💻 B.Tech CSE Student @ MDU
@@ -45,3 +46,16 @@ https://www.linkedin.com/in/prerna-revalia-38516a335/
 
 🌐 Portfolio:
 https://prerna1315.github.io/portfolio-project/
+
+## 📊 GitHub Stats
+
+![Prerna's GitHub stats](https://github-readme-stats.vercel.app/api?username=Prerna1315&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Prerna1315&layout=compact&theme=tokyonight)
+
+## 🏆 GitHub Trophies
+
+![trophy](https://github-profile-trophy.vercel.app/?username=Prerna1315&theme=tokyonight&no-frame=true&margin-w=10)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Prerna1315&theme=tokyonight)
+![Profile Views](https://komarev.com/ghpvc/?username=Prerna1315&color=blueviolet)
