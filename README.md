@@ -1,7 +1,10 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Prerna1315/Prerna1315/main/banner.png" alt="Banner">
+ <img src="https://raw.githubusercontent.com/Prerna1315/Prerna1315/main/Screenshot%202026-06-24%20200843.png" alt="Banner">
 </p>
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=28&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Hi+I'm+Prerna;AI+%26+ML+Enthusiast;Python+Developer;Building+Real-World+Projects)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=40&pause=600&color=A855F7&center=true&vCenter=true&width=1000&lines=Hi+I'm+Prerna;AI+%26+ML+Enthusiast;Python+Developer;Building+Real-World+Projects)](https://git.io/typing-svg)
+
+
 # Hey 👋 I'm Prerna
 
 💻 B.Tech CSE Student @ MDU
