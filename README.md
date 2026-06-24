@@ -37,6 +37,29 @@ Machine Learning • Data Analysis • Scikit-Learn • Pandas • NumPy
 
 ⭐ Portfolio Website
 
+## 🏅 Achievements
+
+• Built an AI Resume Analyzer using Gemini API
+
+• Developed a Personal Portfolio Website
+
+• Actively learning AI & Machine Learning
+
+• Open to internships and project collaborations
+
+## 🎯 2026 Goals
+
+☑ Build 3+ AI/ML Projects
+
+☑ Strengthen Python & Data Analysis Skills
+
+☑ Contribute to Open Source Projects
+
+☑ Secure a Technical Internship
+
+☑ Reach 100+ GitHub Contributions
+
+
 ## 📫 Connect With Me
 
 📍 Delhi, India
