@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Prerna1315/Prerna1315/main/banner.png" alt="Banner">
+</p>
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&size=28&pause=1000&color=A855F7&center=true&vCenter=true&width=600&lines=Hi+I'm+Prerna;AI+%26+ML+Enthusiast;Python+Developer;Building+Real-World+Projects)](https://git.io/typing-svg)
 # Hey 👋 I'm Prerna
 
